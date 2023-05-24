@@ -1,0 +1,346 @@
+/* 
+  Localizable.strings
+  StorageCleaner
+
+  Created by 苍蓝猛兽 on 2023/2/13.
+  
+*/
+
+// MARK: Setting
+"settingTitle" = "Configuração";
+"settingUpgrade" = "UPGRADE TO PRO";
+"settingAD" = "Compressor Ilimitado";
+"settingWidget" = "Smart Limpeza All time";
+"settingGo" = "GO";
+"settingGuideTitle" = "Limpeza Guia";
+"settingGuideSubTitle" = "Como a limpar up iPhone manualmente";
+"settingVersion" = "Atual Versão";
+"settingPrivacy" = "Privacidade Política";
+"settingService" = "Termos de Uso";
+"settingAbout" = "Sobre Us";
+"settingContact" = "Contato Us";
+"settingVIPTitle" = "Armazenamento Limpador Pro";
+"settingSecret" = "Proteger pessoal dados armazenados em secret espaços.";
+"settingPIN" = "Use PIN";
+"settingRemove" = "Remover Após Importar";
+"settingRemoveSub" = "Automaticamente excluir contatos em endereço livro, fotos e vídeos em fotos após importar para espaço.";
+"settingMedia" = "Fotos & Vídeos";
+
+// MARK: Subscribe
+"Restore" = "Restaurar";
+"subscribeTitle" = "DESBLOQUEAR TODOS RECURSOS";
+"subscribeWeekTitle" = "%@/semana, não pagamento agora";
+"subscribeWeekTitleNoTrial" = "%@/semana, cancelar a qualquer momento";
+"subscribeYearTitle" = "%@/ano, não pagamento agora";
+"subscribeYearTitleNoTrial" = "%@/ano, cancelar a qualquer momento";
+"subscribeTrialTitle" = "Ativar Grátis Testar";
+"subscribeFreeTitle" = "%@ GRÁTIS TESTE, ENTÃO\n";
+"subscribeCoutinue" = "CONTINUE";
+"badNet" = "Rede Inacessível!";
+"noRestore" = "Não recuperáveis itens encontrados!";
+"subscribeSuccess" = "Assinatura com êxito";
+"failPurchase" = "Compra falha, por favor contato cliente atendimento!";
+"subscribeExpiredRestore" = "Assinatura expirou!";
+"successRestore" = "Sucesso a restaurar compras!";
+"failRestore" = "Falha a restaurar compras!";
+"vipRights1" = "Foto Limpeza";
+"vipRights2" = "Vídeo Limpeza";
+"vipRights3" = "Contatos Limpeza";
+"vipRights4" = "Calendário Limpeza";
+"vipRights5" = "Secreto Espaço";
+"vipRights6" = "Velocidade Teste";
+"vipRights7" = "Widget";
+"vipRights8" = "Bateria";
+"vipRights9" = "Remover Anúncios";
+"vipRights10" = "Compressor";
+"vipCommentTitle1" = "Ótimo 👍👍👍👍";
+"vipCommentContent1" = "Este é a ótimo aplicativo a ajuda você mantém seu armazenamento organizado e !!!";
+"vipCommentTitle2" = "Incrível 🤩🤩🤩🤩🤩";
+"vipCommentContent2" = "Este app é incrível, it pode excluir muitos inútil fotos muito facilmente!";
+"vipCommentTitle3" = "Profundo Limpo 😍😍😍";
+"vipCommentContent3" = "Ser able to profundo limpo fotos, calendário notas e contatos é apenas impressionante!";
+"rewardVideoTip" = "Assista a recompensa vídeo a obtenha a acesso com grátis";
+
+// MARK: Home
+"homeTitle" = "Velocidade Teste";
+"netSpeedStart" = "Início";
+"netSpeedAverage" = "Médio";
+"netSpeedAgain" = "Novamente";
+"netDownload" = "Download";
+"netUpload" = "Upload";
+"netAlert" = "Atualmente é uma rede móvel, e o teste de velocidade pode consumir mais tráfego. Deseja continuar o teste de velocidade?";
+
+// MARK: Calendar
+"deleteAllCalendar" = "Are you sure to delete all Calendário eventos?";
+"deleteSelectedCalendar" = "Are you sure to delete all selected eventos?";
+"notSelectedCalendar" = "Ter não selecionar qualquer calendário eventos.";
+
+// MARK: Cleaning Guide
+"cleaningTitle" = "Limpeza Guia";
+"cleaningUninstall" = "Desinstalar não utilizado aplicativos";
+"cleaningDelete" = "Excluir não utilizado aplicativos";
+"cleaningTikTok" = "Clear TikTok cache";
+"cleaningWA" = "Clear WhatsApp cache";
+"cleaningSafari" = "Clear Safari cache";
+"cleaningInstagram" = "Clear Instagram cache";
+"cleaningSnapchat" = "Clear Snapchat cache";
+"cleaningYouTobe" = "Clear YouTube cache";
+"cleaningTelegram" = "Clear Telegram cache";
+"cleaningViber Media" = "Otimizar Viber Mídia";
+"cleaningTip" = "Torne seu telefone mais limpo.";
+"uninstallTips1" = "Abrir Configurações.";
+"uninstallTips2" = "Go to Geral.";
+"uninstallTips3" = "Tap iPhone Armazenamento.";
+"uninstallTips4" = "Enable Offload Unused Apps.";
+"deleteTips1" = "Long press app.";
+"deleteTips2" = "Remover app.";
+"deleteTips3" = "Escolha \"Excluir App\".";
+"tiltokTips1" = "Open Tik Tok.";
+"tiltokTips2" = "Abrir \"Perfil\" então clique  configurações ícone    superior direita canto.";
+"tiltokTips3" = "Limpar cache.";
+"WATips1" = "Aberto WhatsApp.";
+"WATips2" = "Go to Setting->Storage and Date.";
+"WATips3" = "Tap Gerenciar Armazenamento.";
+"WATips4" = "Aberto chat.";
+"WATips5" = "Selecionar itens a remover.";
+"guideDone" = "Feito";
+"cleanSafari" = "Clear Safari cache";
+"safariTip1" = "Abrir Configurações.";
+"safariTip2" = "Go to Safari.";
+"safariTip3" = "Tap Limpar Histórico e Site Data.";
+"safariTip4" = "Confirmar operação.";
+"instagramTip1" = "Open Instagram.";
+"instagramTip2" = "Clique mais ícone.";
+"instagramTip3" = "Tap Sua atividade.";
+"instagramTip4" = "Tap Recentes pesquisas.";
+"instagramTip5" = "Tap Clear all.";
+"snapchatTip1" = "Open Snapchat.";
+"snapchatTip2" = "Clique em o usuário avatar.";
+"snapchatTip3" = "Clique Configurações.";
+"snapchatTip4" = "Clique Limpar Dados.";
+"snapchatTip5" = "Clique Limpar Cache.";
+"youToBeTip1" = "Open YouTube.";
+"youToBeTip2" = "Clique em o usuário avatar.";
+"youToBeTip3" = "Clique Configurações.";
+"youToBeTip4" = "Clique Gerencie todo histórico.";
+"youToBeTip5" = "Clique Excluir.";
+"telegramTip1" = "Open Telegram.";
+"telegramTip2" = "Clique Configurações,\nentão clique Data e Armazenamento.";
+"telegramTip3" = "Clique Configurações.";
+"telegramTip4" = "Clique Limpar Dados.";
+"viberMediaTip1" = "Open Viber Media.";
+"viberMediaTip2" = "Clique Configurações.";
+"viberMediaTip3" = "Clique Armazenamento.";
+"viberMediaTip4" = "Clique Mantenha Mídia.";
+"viberMediaTip5" = "Selecione vez seleção.";
+"viberMediaTip6" = "Confirme sua seleção.";
+
+// MARK: Contacts
+"contactAlertTitle" = "Permitir acesso a contatos";
+"contactAlertSubTitle" = "Por favor permita a acesso seu endereço livro em iPhone Configurações - Privacidade";
+"contactButton" = "Go to Configuração";
+"contactCancel" = "Não ainda";
+"contactsTitle" = "Contato Limpeza";
+"contactsBackup" = "Backup Contatos";
+"contactsAll" = "Todos Contatos";
+"contactsDup" = "Duplicados";
+"contactsDupSub" = "\nNames / Emails / Numbers";
+"contactsIncomplete" = "Incompleto Contatos";
+"contactsIncompleteSub" = "\nNo Nome / No Number / No Email";
+"contactsVCTitle1" = "Contatos";
+"contactsVCTitle2" = "Duplicados";
+"contactsVCTitle3" = "Incompleto Contatos";
+"contactsEmpty" = "Não contato.";
+"contactsDeselect" = "Desmarcar tudo";
+"contactsSelect" = "Selecionar todos";
+"contactsDelete" = "Excluir";
+"contactsMerge" = "Mesclar";
+"contactsTip" = "Por favor selecione o entre em contato você deseja a opere";
+"contactsDuplicateDeleteTip" = "O selecionou contato foi  excluído";
+"backupTitle" = "Backup Contatos";
+"backupAuto" = "Auto Backup";
+"backupSubTitle" = "Antes fundindo ou excluindo contatos, o aplicativo automaticamente backs up contatos localmente, e você pode rapidamente restaurar contatos a seu endereço livro ";
+"contactsDupDeselect" = "Desmarcar Todos";
+"contactsDupSelect" = "Selecionar Todos";
+"contactsDuplicateHeader" = "%d Duplicados Contatos";
+"contactRestore" = "Restaurar";
+"contactBackup1" = "\nContatos";
+"contactBackup2" = " iPhone";
+"contactBackupTip" = "O backup é sendo restaurado. Fazer não repetir esta operação";
+"contactBackupTip1" = "Endereço livro recuperação concluído";
+"contactBackupTip2" = "Endereço livro backup excluído";
+"contactBackupTip3" = "Endereço livro tem limpo selecionado contatos";
+"contactBackupTip4" = "Endereço livro backup completo";
+
+// MARK: Photos
+"photoTitle" = "Armazenamento";
+"photoAll" = "Todos";
+"photoYearly" = "Anual";
+"photoWeakly" = "Mensal";
+"photoDay" = "24 Horas";
+"photoDuplicates" = "Duplicado Fotos";
+"photoSimilar" = "Similar Fotos";
+"photoRecents" = "Recentes";
+"photoScreenshots" = "Capturas de tela";
+"photoLivePhotos" = "Ao vivo Fotos";
+"photoVideos" = "Vídeos";
+"photoCleanDes" = "Pode ser limpo fora";
+"photoSelectAll" = "Selecionar todos";
+"photoDeSelectAll" = "DeSelect all";
+"photoManager" = "Gerente";
+
+
+// MARK: Home
+"homeCleanTitle" = "Armazenamento Limpador";
+"homePhoto" = "Fotos";
+"homePhotoSub" = "\nClean up duplicado fotos, similar fotos, e vídeos.";
+"homeCalendar" = "Calendário";
+"homeCalendarSub" = "\nClean up duplicado and expirado Calendários.";
+"homeContact" = "Contatos";
+"homeContactSub" = "\nComparando duplicados e incompletos contatos. Voltar up todos contatos.";
+"homeNet" = "Internet Velocidade Teste";
+"homeNetSub" = "\nRede velocidade medição, incluindo rede uplink velocidade e download velocidade.";
+"homeBattery" = "Bateria";
+"homeBatterySub" = "\nBateria economia guia, carregamento animação";
+"homeGB" = "GB";
+"homeResultMid" = "\nPode ser limpo fora\n";
+"homeClean" = "Smart Limpeza";
+"homeCleanTip" = "Por favor don't deixar a página durante inteligente limpar digitalizar";
+"homeVideoCompress" = "Vídeo Compressão";
+"homeVideoCompressSub" = "\nVídeo compressão sem distorção, otimizado memória";
+"homeWidget" = "Home Tela Widget";
+"homeWidgetSub" = "\nCreative screen widget to help you gerenciar your storage";
+"homeGuide" = "Limpeza Guia";
+"homeGuideSub" = "\nComo a limpar up iPhone manualmente";
+
+// MARK: Secret Space
+"secretTitle" = "Secreto Espaço";
+"pwMainTitle" = "Set Senha";
+"pwSubTitle" = "\nAumento armazenamento segurança";
+"secretAlbum" = "Secret Album";
+"secretAlbum1" = "\nSeu privado fotos e vídeos";
+"secretContact" = "Secreto Contatos";
+"secretContact1" = "\nSeu secret contatos";
+"passwordCreate" = "Criar Novo Senha";
+"passwordConfirm" = "Reconfirmar Senha";
+"passwordClose" = "Fechar Senha";
+"setpwd" = "Senha configuração com êxito";
+"pwdError" = "Senha verificação erro, por favor redigite";
+"secretContactsTitle" = "Secreto Contatos";
+"secretContactsManage" = "Gerenciar";
+"secretContactsAdd" = "Adicionar";
+"secretContactsCancel" = "Cancelar";
+"secretContactsShareSuccess" = "Contatos compartilhar com sucesso";
+"secretContactsShareFail" = "Contatos compartilhamento falha";
+"secretAlbumTitle" = "Secret Album";
+"secretAlertTitle" = "Excluir após importar?";
+"secretAlertAlbumContent" = "\nOs arquivos importados serão excluídos do Fotos após cada importação e você pode alterá-los a qualquer momento nas configurações do aplicativo.";
+"secretAlertContactContent" = "\nOs contatos importados são excluídos do seu catálogo de endereços após cada importação e você pode alterá-los a qualquer momento nas configurações do aplicativo";
+"secretAlbumEmpty" = "Não Secreto Álbum";
+
+// MARK: Battery
+"batteryLowPower" = "Baixo Potência Modo";
+"batteryLowPowerSub" = "\nEconomize bateria, prolongar bateria vida";
+"batteryBrightness" = "Brilho";
+"batteryBrightnessSub" = "\nEstende sua bateria vida por escurecimento sua tela";
+"batteryConnection" = "Gestão Conexão";
+"batteryConnectionSub" = "\nDesativar  celular conexões a economizar mais bateria";
+"batteryWifi" = "Wi-Fi Atualizar";
+"batteryWifiSub" = "\nTurn off celular background services";
+"batteryConsumption" = "Bateria Consumo";
+"batteryConsumptionSub" = "\nTake control of your batery power";
+"batteryOverheat" = "Superaquecimento";
+"batteryOverheatSub" = "\nObter o mais fora de sua bateria carga por mantendo seu iPhone legal";
+"batteryRefresh" = "Fundo Atualizar";
+"batteryRefreshSub" = "\nTurn off desnecessário app auto-refresh";
+"batteryLocation" = "Localização Serviços";
+"batteryLocationSub" = "\nLimit your app's use of location information";
+"batteryNotice" = "Restrição Aviso";
+"batteryNoticeSub" = "\nTurn off desnecessário lock screen notifications";
+"batteryCharge" = "Carregando";
+"batteryBatteryLife" = "Bateria Vida";
+"chargingTitle" = " Limpeza Guia";
+"chargingTip1" = "Abrir o Atalhos aplicativo";
+"chargingTip2" = "Go to the \"Automação\" tab";
+"chargingTip3" = "Toque em Criar Automação Pessoal. Se você já tiver pelo menos uma automação, toque em \"+\" para adicionar uma nova";
+"chargingTip4" = "Role para baixo  lista e toque Carregador";
+"chargingTip5" = "Certifique-se   \"Conectado\" opção é verificado, então toque \"Próximo\"";
+"chargingTip6" = "Tap Adicionar Ação";
+"chargingTip7" = "Tap the Apps";
+"chargingTip8" = "Selecione Armazenamento Limpador";
+"chargingTip9" = "Tap Armazenamento Limpador";
+"chargingTip10" = "Tap \"Next\"";
+"chargingTip11" = "Desligar desligar \"Perguntar Antes Executar\"";
+"chargingTip12" = "Tap Concluído";
+"chargingAnimation" = "Set Up";
+"chargingAnimationTip" = "O carregando animação é com sucesso definido!";
+"emptyTip" = "Não conteúdo ainda, por favor tente novamente mais tarde";
+
+// MARK: CleanResult
+"cleanCompleteTip1" = "Limpo up \n%@ Itens";
+"cleanCompleteTip2" = "Limpo up";
+"cleanCompleteTip3" = "%@ Itens";
+"cleanCompleteTip4" = "\nO item foi movido para o álbum \"Excluídos recentemente\" do seu iPhone, não se esqueça de limpar o álbum~";
+
+// MARK: Review
+"reviewTip1" = "Fazer você desfrutar do aplicativo?";
+"reviewTip2" = "\nPor favor selecione sua preferência.";
+"reviewTip3" = "Confirmar";
+"reviewTip4" = "Obrigado por sua avaliação";
+"reviewTip5" = "\nNós iremos trabalhar mais a otimizar o aplicativo, sua avaliações e comentários são meus maiores encorajamento.";
+"reviewTip6" = "\nSuas avaliações e comentários são o maior incentivo para mim. Gostaria de ir à App Store para me dar uma classificação?";
+
+// MARK: Widget
+"widgetGuideTitle" = "Adicionar Widget Guia";
+"widgetGuideTip1" = "Pressione e mantenha em qualquer lugar na   tela inicial  até   aplicativo começa agitando";
+"widgetGuideTip2" = "Clique o \"Adicione\" botão em o superior esquerdo canto";
+"widgetGuideTip3" = "Localizar e selecionar Armazenamento Limpar em a lista de widgets";
+"widgetGuideTip4" = "Swipe to set the size of the widget, and tap Add Widget";
+"widgetGuideTip5" = "To place the widget on your home screen, tap \"Done\" in the top right";
+
+// MARK: Compress
+"compressVideo" = "Vídeo \nCompressor";
+"compressImage" = "Image \nCompressor";
+"compressVideoSubTitle" = "Total %@, %@ vídeos";
+"compressImageSubTitle" = "Total %@, %@ imagens";
+"compressVideoTitle" = "Vídeo Compressão";
+"compressImageTitle" = "Image Compressão";
+"compressVideoDelete" = " Excluir Original Vídeo";
+"compressImageDelete" = " Excluir Original Imagem";
+"compressVideoSize" = "Original Vídeo tamanho: %@, após compressão：";
+"compressImageSize" = "Original Imagem tamanho: %@, após compressão：";
+"compressVideoAlert1" = "Excluir Original Vídeo";
+"compressVideoAlert2" = "\nApós a conclusão da compactação, o vídeo original será excluído. O que você quer fazer com o vídeo original?";
+"compressImageAlert1" = "Excluir Original Imagem";
+"compressImageAlert2" = "\nApós a conclusão da compactação, a imagem original será excluída. O que você quer fazer com a imagem original?";
+"compressComplete" = "Compressão concluída";
+
+// MARK: Discover
+"photoTitle" = "Fotos Limpeza";
+"photoSubTitle" = "\nClean up duplicado fotos, borrados fotos, e mais";
+"calendarTitle" = "Calendário";
+"calendarSubTitle" = "\nClean up duplicado e expirado calendários";
+"batteryTitle" = "Bateria";
+"batterySubTitle" = "\nBateria economia guia, carregamento animação";
+"widgetTitle" = "Home Tela Widget";
+"widgetSubTitle" = "\nClean up duplicado fotos, borrados fotos, e mais";
+"compressTitle" = "Compressão Ferramenta";
+"compressSubTitle" = "\nImage & Vídeo compressão, reter imagem qualidade, economizar memória espaço";
+"netSpeedTitle" = "Internet Velocidade Teste";
+"netSpeedSubTitle" = "\nRede velocidade medição, incluindo rede uplink velocidade e download velocidade";
+"guideTitle" = "Limpeza Guia";
+"guideSubTitle" = "\nComo a limpar up iPhone manualmente";
+"contactsTitle" = "Contatos";
+"contactsSubTitle" = "\nComparando duplicado e incompleto contatos, back up all contatos";
+
+// MARK: Push
+"pushAlertTitle" = "Dicas";
+"pushAlertContent" = "Abrir pressionar, Nós iremos lembrar você a limpar seu dispositivo a cada dia";
+"pushAlertOK" = "Configuração";
+"pushAlertCancel" = "Pense novamente";
+
+// MARK: Contact Us
+"suggestionPlaceholder" = "Por favor digite seu pessoal comentário em 300 palavras.";
+"emailTip" = "Deixe seu contato informações so que nós pode contato você em tempo depois nós entendemos o problema.";
+"Nothing is filled in" = "Nada é preenchido em";
+"Commit Success" = "Compromisso Sucesso";

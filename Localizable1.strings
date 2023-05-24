@@ -1,0 +1,346 @@
+/* 
+  Localizable.strings
+  StorageCleaner
+
+  Created by 苍蓝猛兽 on 2023/2/13.
+  
+*/
+
+// MARK: Setting
+"settingTitle" = "Inställning";
+"settingUpgrade" = "UPPGRADERA TO PRO";
+"settingAD" = "Kompressor Unlimit";
+"settingWidget" = "Smart rengöring hela tiden";
+"settingGo" = "GO";
+"settingGuideTitle" = "Rengöringsguide";
+"settingGuideSubTitle" = "Hur till rengör upp iPhone manuellt";
+"settingVersion" = "Aktuell version";
+"settingPrivacy" = "Sekretess Policy";
+"settingService" = "Villkor av Använd";
+"settingAbout" = "Om Us";
+"settingContact" = "Kontakt Us";
+"settingVIPTitle" = "Storage Cleaner Pro";
+"settingSecret" = "Skydda personliga data lagrade i hemliga utrymmen.";
+"settingPIN" = "Använd PIN";
+"settingRemove" = "Ta bort Efter Import";
+"settingRemoveSub" = "Automatiskt ta bort kontakter i adress bok, foton och videor i foton efter import till utrymme.";
+"settingMedia" = "Foton & Videor";
+
+// MARK: Subscribe
+"Restore" = "Återställ";
+"subscribeTitle" = "UNLOCK ALL FEATURES";
+"subscribeWeekTitle" = "%@/vecka, no payment nu";
+"subscribeWeekTitleNoTrial" = "%@/vecka, avbryt när som helst";
+"subscribeYearTitle" = "%@/år, ingen betalning nu";
+"subscribeYearTitleNoTrial" = "%@/år, avbryt när som helst";
+"subscribeTrialTitle" = "Aktivera gratis provperiod";
+"subscribeFreeTitle" = "%@ GRATIS PRÖVNING, DÅ\n";
+"subscribeCoutinue" = "FORTSÄTTA";
+"badNet" = "Nätverk går inte att nå!";
+"noRestore" = "Inga återvinningsbara objekt hittade!";
+"subscribeSuccess" = "Prenumeration lyckades";
+"failPurchase" = "Köp  misslyckades, vänligen kontakt kund service!";
+"subscribeExpiredRestore" = "Prenumeration förfallit!";
+"successRestore" = "framgång till återställning köp!";
+"failRestore" = "Det gick inte att återställa köp!";
+"vipRights1" = "Fotorensning";
+"vipRights2" = "Videorensning";
+"vipRights3" = "Kontakter Cleanup";
+"vipRights4" = "Kalenderrensning";
+"vipRights5" = "Hemligt utrymme";
+"vipRights6" = "Hastighet Test";
+"vipRights7" = "Widget";
+"vipRights8" = "Batteri";
+"vipRights9" = "Ta bort annonser";
+"vipRights10" = "Kompressor";
+"vipCommentTitle1" = "Bra 👍👍👍👍";
+"vipCommentContent1" = "Detta är en bra app att hjälpa dig hålla din lagring ren och organiserad!!!";
+"vipCommentTitle2" = "Amazing 🤩🤩🤩🤩🤩";
+"vipCommentContent2" = "Denna appen är fantastiska, den kan ta bort många användbara foton mycket lätt!";
+"vipCommentTitle3" = "Deep Clean 😍😍😍";
+"vipCommentContent3" = "Att vara kan till djupa rena foton, kalender anteckningar och kontakter är bara häftig!";
+"rewardVideoTip" = "Titta  belöningen video för att få  åtkomst med gratis";
+
+// MARK: Home
+"homeTitle" = "Hastighet Test";
+"netSpeedStart" = "Start";
+"netSpeedAverage" = "Genomsnitt";
+"netSpeedAgain" = "Igen";
+"netDownload" = "Ladda ner";
+"netUpload" = "Ladda upp";
+"netAlert" = "Det är för närvarande ett mobilnät och hastighetstestet kan förbruka mer trafik. Vill du fortsätta hastighetstestet?";
+
+// MARK: Calendar
+"deleteAllCalendar" = "Är du säker att ta bort alla kalender händelser?";
+"deleteSelectedCalendar" = "Är du säker att ta bort alla valda händelser?";
+"notSelectedCalendar" = "Har inte välj någon kalender händelser.";
+
+// MARK: Cleaning Guide
+"cleaningTitle" = "Rengöringsguide";
+"cleaningUninstall" = "Avinstallera unused apps";
+"cleaningDelete" = "Ta bort oanvända appar";
+"cleaningTikTok" = "Rensa TikTok-cache";
+"cleaningWA" = "Rensa WhatsApp-cache";
+"cleaningSafari" = "Rensa Safari-cache";
+"cleaningInstagram" = "Rensa Instagram-cache";
+"cleaningSnapchat" = "Rensa Snapchat-cache";
+"cleaningYouTobe" = "Rensa YouTube-cache";
+"cleaningTelegram" = "Rensa Telegram-cache";
+"cleaningViber Media" = "Optimera Viber Media";
+"cleaningTip" = "Gör din telefon renare.";
+"uninstallTips1" = "Öppna Inställningar.";
+"uninstallTips2" = "Gå till Allmänt.";
+"uninstallTips3" = "Tryck iPhone Lagring.";
+"uninstallTips4" = "Enable Offload Uused Apps.";
+"deleteTips1" = "Lång tryck app.";
+"deleteTips2" = "Ta bort app.";
+"deleteTips3" = "Välja \"Delete App\".";
+"tiltokTips1" = "Öppen Tik Tok.";
+"tiltokTips2" = "Öppna \"Profil\" sedan klicka  inställningar ikonen i  övre högra hörnet.";
+"tiltokTips3" = "Rensa cache.";
+"WATips1" = "Öppna WhatsApp.";
+"WATips2" = "Go to Setting->Storage and Date.";
+"WATips3" = "Tap Manage Storage.";
+"WATips4" = "Öppna chat.";
+"WATips5" = "Välj objekt för att ta bort.";
+"guideDone" = "Klar";
+"cleanSafari" = "Klar Safari cache";
+"safariTip1" = "Öppna Inställningar.";
+"safariTip2" = "Gå till Safari.";
+"safariTip3" = "Tryck Rensa Historik och Webbplats Datum.";
+"safariTip4" = "Bekräfta operation.";
+"instagramTip1" = "Öppna Instagram.";
+"instagramTip2" = "Klicka mer icon.";
+"instagramTip3" = "Tryck Din aktivitet.";
+"instagramTip4" = "Tryck Senaste sökningar.";
+"instagramTip5" = "Knacka Rensa allt.";
+"snapchatTip1" = "Öppna Snapchat.";
+"snapchatTip2" = "Klicka på användaren avatar.";
+"snapchatTip3" = "Klicka Inställningar.";
+"snapchatTip4" = "Click Clear Data.";
+"snapchatTip5" = "Click Clear Cache.";
+"youToBeTip1" = "Öppna YouTube.";
+"youToBeTip2" = "Klicka på användaren avatar.";
+"youToBeTip3" = "Klicka Inställningar.";
+"youToBeTip4" = "Klicka Hantera all historik.";
+"youToBeTip5" = "Klicka Delete.";
+"telegramTip1" = "Öppna Telegram.";
+"telegramTip2" = "Click Settings,\nsedan click Date och Storage.";
+"telegramTip3" = "Klicka Inställningar.";
+"telegramTip4" = "Click Clear Data.";
+"viberMediaTip1" = "Öppen Viber Media.";
+"viberMediaTip2" = "Klicka Inställningar.";
+"viberMediaTip3" = "Klick Lagring.";
+"viberMediaTip4" = "Klick Behåll Media.";
+"viberMediaTip5" = "Välj tid val.";
+"viberMediaTip6" = "Bekräfta ditt val.";
+
+// MARK: Contacts
+"contactAlertTitle" = "Tillåt åtkomst till kontakter";
+"contactAlertSubTitle" = "Vänligen tillåt till åtkomst din adress bok i iPhone Inställningar - Sekretess";
+"contactButton" = "Gå till Inställning";
+"contactCancel" = "Inte ännu";
+"contactsTitle" = "Kontakta Cleanup";
+"contactsBackup" = "Backup Kontakter";
+"contactsAll" = "Alla kontakter";
+"contactsDup" = "Duplikat";
+"contactsDupSub" = "\nNames / Emails / Numbers";
+"contactsIncomplete" = "Incomplete Contacts";
+"contactsIncompleteSub" = "\nNo Name / No Number / No Email";
+"contactsVCTitle1" = "Kontakter";
+"contactsVCTitle2" = "Duplikat";
+"contactsVCTitle3" = "Incomplete Contacts";
+"contactsEmpty" = "Ingen kontakt.";
+"contactsDeselect" = "Avmarkera alla";
+"contactsSelect" = "Välj alla";
+"contactsDelete" = "Ta bort";
+"contactsMerge" = "Sammanfoga";
+"contactsTip" = "Välj välj den kontakten du vill att operera";
+"contactsDuplicateDeleteTip" = "Den valda kontakten har blitt raderad";
+"backupTitle" = "Backup Kontakter";
+"backupAuto" = "Auto Backup";
+"backupSubTitle" = "Innan sammanslagning eller tar bort kontakter,  appen automatiskt backar upp kontakter lokalt, och du kan snabbt återställa kontakter yourdressy";
+"contactsDupDeselect" = "Avmarkera Alla";
+"contactsDupSelect" = "Välj Alla";
+"contactsDuplicateHeader" = "%d Duplicates Contacts";
+"contactRestore" = "Återställ";
+"contactBackup1" = "\nContacts";
+"contactBackup2" = " iPhone";
+"contactBackupTip" = " säkerhetskopian återställs . Gör inte upprepa denna operation";
+"contactBackupTip1" = "Återställning av adressboken slutförd";
+"contactBackupTip2" = "Adress bok backup raderad";
+"contactBackupTip3" = "Adress bok har städat valda kontakter";
+"contactBackupTip4" = "Säkerhetskopiering av adressboken är klar";
+
+// MARK: Photos
+"photoTitle" = "Lagring";
+"photoAll" = "Alla";
+"photoYearly" = "Årligt";
+"photoWeakly" = "Månatlig";
+"photoDay" = "24 Timmar";
+"photoDuplicates" = "Duplicate Foton";
+"photoSimilar" = "Liknande Foton";
+"photoRecents" = "Senaste";
+"photoScreenshots" = "Skärmdumpar";
+"photoLivePhotos" = "Live Foton";
+"photoVideos" = "Videor";
+"photoCleanDes" = "Kan vara städas ut";
+"photoSelectAll" = "Välj alla";
+"photoDeSelectAll" = "Avmarkera alla";
+"photoManager" = "Manager";
+
+
+// MARK: Home
+"homeCleanTitle" = "Storage Cleaner";
+"homePhoto" = "Foton";
+"homePhotoSub" = "\nRensa upp dubbletter av foton, liknande foton och videor.";
+"homeCalendar" = "Kalender";
+"homeCalendarSub" = "\nRensa upp dubbletter och utgångna kalendrar.";
+"homeContact" = "Kontakter";
+"homeContactSub" = "\nCollating duplicering och ofullständiga kontakter. Back up alla kontakter.";
+"homeNet" = "Internethastighetstest";
+"homeNetSub" = "\nNetwork speed measurement, inklusive network uplink speed and download speed.";
+"homeBattery" = "Batteri";
+"homeBatterySub" = "\nBattery saving guide, charging animation";
+"homeGB" = "GB";
+"homeResultMid" = "\nKan bli rensad ut\n";
+"homeClean" = "Smart Rengöring";
+"homeCleanTip" = "Var snälla don't lämna sidan under smart rengöring scan";
+"homeVideoCompress" = "Video Kompression";
+"homeVideoCompressSub" = "\nVideo komprimering utan förvrängning, optimerat minne";
+"homeWidget" = "Hem Skärm Widget";
+"homeWidgetSub" = "\nKreativ skärmwidget som hjälper dig att hantera din lagring";
+"homeGuide" = "Rengöringsguide";
+"homeGuideSub" = "\nHow to clean up iPhone manuellt";
+
+// MARK: Secret Space
+"secretTitle" = "Hemligt utrymme";
+"pwMainTitle" = "Välj lösenord";
+"pwSubTitle" = "\nÖkad lagring säkerhet";
+"secretAlbum" = "Hemligt album";
+"secretAlbum1" = "\nDina privata foton och videor";
+"secretContact" = "Hemliga kontakter";
+"secretContact1" = "\nDin hemlighet kontakter";
+"passwordCreate" = "Skapa Nytt Lösenord";
+"passwordConfirm" = "Bekräfta på nytt Lösenord";
+"passwordClose" = "Stäng Lösenord";
+"setpwd" = "Lösenordsinställningen lyckades";
+"pwdError" = "Password verification error, please re-enter";
+"secretContactsTitle" = "Hemliga kontakter";
+"secretContactsManage" = "Hantera";
+"secretContactsAdd" = "Lägg till";
+"secretContactsCancel" = "Avbryt";
+"secretContactsShareSuccess" = "Kontakter dela framgångsrikt";
+"secretContactsShareFail" = "Kontakter delning misslyckades";
+"secretAlbumTitle" = "Secret Album";
+"secretAlertTitle" = "Ta bort efter import?";
+"secretAlertAlbumContent" = "\nImporterade filer kommer bli raderade från foton efter varje import, och du kan ändra dem när som helst i  inställningen.";
+"secretAlertContactContent" = "\nimporterade kontakter är raderade från din adress bok efter varje import, och du kan ändra dem när";
+"secretAlbumEmpty" = "No Secret Album";
+
+// MARK: Battery
+"batteryLowPower" = "Låg Power Mode";
+"batteryLowPowerSub" = "\nSpara batteri, förläng batteri livslängd";
+"batteryBrightness" = "Ljusstyrka";
+"batteryBrightnessSub" = "\nFörläng ditt batteri liv med dimma din skärm";
+"batteryConnection" = "Management Anslutning";
+"batteryConnectionSub" = "\nStäng av cellulär anslutningar till spara mer batteri";
+"batteryWifi" = "Wi-Fi Uppdatera";
+"batteryWifiSub" = "\nTurn off cellular background services";
+"batteryConsumption" = "Batteri Förbrukning";
+"batteryConsumptionSub" = "\nTa kontroll av ditt batteri kraft";
+"batteryOverheat" = "Överhettad";
+"batteryOverheatSub" = "\nFå det mest ut av ditt batteri laddning genom håll din iPhone cool";
+"batteryRefresh" = "Bakgrund Uppdatera";
+"batteryRefreshSub" = "\nTurn off onödig app auto-refresh";
+"batteryLocation" = "Plats Tjänster";
+"batteryLocationSub" = "\nLimit din app's användning av plats information";
+"batteryNotice" = "Begränsning Meddelande";
+"batteryNoticeSub" = "\nTurn off onödig lås skärm aviseringar";
+"batteryCharge" = "Laddning";
+"batteryBatteryLife" = "Batteri Life";
+"chargingTitle" = " Cleaning Guide";
+"chargingTip1" = "Öppna genvägarna appen";
+"chargingTip2" = "Go to the \"Automation\" tab";
+"chargingTip3" = "Tryck på Skapa personlig automation. Om du redan har minst en automatisering kan du trycka på \"+\" för att lägga till en ny";
+"chargingTip4" = "Scroll down the list and tap Charger";
+"chargingTip5" = "Gör säker  \"Ansluten\" alternativ är markerad, sedan tryck \"Nästa\"";
+"chargingTip6" = "Knacka Lägg till Action";
+"chargingTip7" = "Knacka på  Apparna";
+"chargingTip8" = "Select Storage Cleaner";
+"chargingTip9" = "Tap Storage Cleaner";
+"chargingTip10" = "Tryck \"Nästa\"";
+"chargingTip11" = "Turn off \"Fråga Innan Kör\"";
+"chargingTip12" = "Knacka Klar";
+"chargingAnimation" = "Set Up";
+"chargingAnimationTip" = "Den laddningen animationen är lyckad inställd!";
+"emptyTip" = "Inget innehåll ännu, snälla försök igen senare";
+
+// MARK: CleanResult
+"cleanCompleteTip1" = "Renat upp \n%@ Artiklar";
+"cleanCompleteTip2" = "Renat upp";
+"cleanCompleteTip3" = "%@ Artiklar";
+"cleanCompleteTip4" = "\nObjektet har flyttats till din iPhones \"Recently Deleted\"-album, glöm inte att rensa albumet~";
+
+// MARK: Review
+"reviewTip1" = "Gör du njuter av appen?";
+"reviewTip2" = "\nVälj välj din inställning.";
+"reviewTip3" = "Bekräfta";
+"reviewTip4" = "Tack för ditt Betyg";
+"reviewTip5" = "\nVi kommer arbeta hårdare för att optimera  appen, dina betyg och kommentarer är min bästa uppmuntran.";
+"reviewTip6" = "\nDina betyg och recensioner är den största uppmuntran för mig. Vill du gå till App Store för att ge mig ett betyg?";
+
+// MARK: Widget
+"widgetGuideTitle" = "Add Widget Guide";
+"widgetGuideTip1" = "Tryck och håll var som helst på hem skärmen tills  appen börjar skaka";
+"widgetGuideTip2" = "Klicka  \"Lägg till\" knappen i  övre vänster hörnet";
+"widgetGuideTip3" = "Hitta och select Storage Cleaner i  listan av widgets";
+"widgetGuideTip4" = "Svep till set  storleken av  widgeten, och tryck Lägg till widget";
+"widgetGuideTip5" = "To place the widget på your home screen, tap \"Klar\" i the top right";
+
+// MARK: Compress
+"compressVideo" = "Video \nCompressor";
+"compressImage" = "Bild \nKompressor";
+"compressVideoSubTitle" = "Totalt %@, %@ videor";
+"compressImageSubTitle" = "Totalt %@, %@ bilder";
+"compressVideoTitle" = "Video Kompression";
+"compressImageTitle" = "Bild Kompression";
+"compressVideoDelete" = " Delete Original Video";
+"compressImageDelete" = " Delete Original Image";
+"compressVideoSize" = "Original Video storlek: %@, efter komprimering：";
+"compressImageSize" = "Original Bild storlek: %@, efter komprimering：";
+"compressVideoAlert1" = "Delete Original Video";
+"compressVideoAlert2" = "\nNär komprimeringen är klar kommer den ursprungliga videon att raderas. Vad vill du göra med originalvideon?";
+"compressImageAlert1" = "Delete Original Image";
+"compressImageAlert2" = "\nNär komprimeringen är klar kommer originalbilden att raderas. Vad vill du göra med originalbilden?";
+"compressComplete" = "Compression completed";
+
+// MARK: Discover
+"photoTitle" = "Foton Rengöring";
+"photoSubTitle" = "\nClean up duplicera foton, suddiga foton, och mer";
+"calendarTitle" = "Kalender";
+"calendarSubTitle" = "\nClean up duplicate and expired calends";
+"batteryTitle" = "Batteri";
+"batterySubTitle" = "\nBattery saving guide, charging animation";
+"widgetTitle" = "Hem Skärm Widget";
+"widgetSubTitle" = "\nClean up duplicera foton, suddiga foton, och mer";
+"compressTitle" = "Kompression Verktyg";
+"compressSubTitle" = "\nImage & Video compression, retain image quality, save memory space";
+"netSpeedTitle" = "Internet Speed Test";
+"netSpeedSubTitle" = "\nNetwork speed measurement, inklusive network uplink speed and download speed";
+"guideTitle" = "Cleaning Guide";
+"guideSubTitle" = "\nHow to clean up iPhone manuellt";
+"contactsTitle" = "Kontakter";
+"contactsSubTitle" = "\nCollating duplicering och ofullständiga kontakter, back up alla kontakter";
+
+// MARK: Push
+"pushAlertTitle" = "Tips";
+"pushAlertContent" = "Öppna push, Vi kommer påminna dig att rengöra din enhet varje dag";
+"pushAlertOK" = "Inställning";
+"pushAlertCancel" = "Tänk igen";
+
+// MARK: Contact Us
+"suggestionPlaceholder" = "Snälla skriv din personliga feedback inom 300 ord.";
+"emailTip" = "Lämna din kontakt information så att vi kan kontakta dig om tid efter förstår  problemet.";
+"Nothing is filled in" = "Ingenting är fylld i";
+"Commit Success" = "Beslut Framgång";
